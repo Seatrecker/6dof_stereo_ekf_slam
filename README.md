@@ -24,3 +24,4 @@
 * MEXOpenCV
 
 [1] https://github.com/kyamagu/mexopencv
+[2] Stereo EKF Pose-based SLAM for AUVs http://srv.uib.es/wp-content/uploads/2015/01/ogrw2014-koblenz1.pdf
